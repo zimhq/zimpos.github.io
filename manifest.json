@@ -1,6 +1,6 @@
 {
-  "name": "Hello World",
-  "short_name": "Hello",
+  "name": "Zim POS",
+  "short_name": "POS",
   "icons": [{
     "src": "img/hello-icon-128.png",
       "sizes": "128x128",
